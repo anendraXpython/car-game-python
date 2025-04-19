@@ -16,10 +16,21 @@ A beginner-friendly Python game where a car is controlled with keyboard input. G
 
 - Language: Python 🐍
 
-
 ---
+
+## 📸 Screenshot
+
+| Game Preview |
+|--------------|
+| ![preview](car_game_preview.PNG) |
+
+
+
 
 ## 🚀 Run the game
 
 ```bash
 python car_game.py
+
+
+
